@@ -1,1 +1,2 @@
 # STM_UCOS_F103VE_DEMO
+## 关于STM32F103 HAL库配置的好的UCOS初始化项目
